@@ -1,0 +1,57 @@
+[
+    {
+      "order_id": "dce91f9e-bde2-4e49-b38f-027e1886490a",
+      "customer": "João Silva",
+      "address": "Rua das Flores, 123",
+      "payment_method": "Credit Card",
+      "products": [
+        {
+          "name": "Notebook",
+          "quantity": 1,
+          "price": 3499.99
+        },
+        {
+          "name": "Mouse",
+          "quantity": 2,
+          "price": 79.90
+        }
+      ]
+    },
+    {
+      "order_id": "a2b8e3cf-ec79-426e-a71e-b2ffb7dfdd68",
+      "customer": "Maria Oliveira",
+      "address": "Av. Central, 456",
+      "payment_method": "Pix",
+      "products": [
+        {
+          "name": "Smartphone",
+          "quantity": 1,
+          "price": 2499.90
+        },
+        {
+          "name": "Fone de Ouvido",
+          "quantity": 1,
+          "price": 199.90
+        }
+      ]
+    },
+    {
+      "order_id": "75075ac8-0987-4b9e-bd1e-12a4e70f5884",
+      "customer": "Pedro Santos",
+      "address": "Rua Nova, 789",
+      "payment_method": "Boleto",
+      "products": [
+        {
+          "name": "Monitor",
+          "quantity": 1,
+          "price": 899.00
+        },
+        {
+          "name": "HD Externo",
+          "quantity": 1,
+          "price": 499.90
+        }
+      ]
+    }
+  ]
+  

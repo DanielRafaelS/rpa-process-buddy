@@ -1,0 +1,56 @@
+[
+  {
+    "order_id": "59b1e91d-3f80-45cc-87b5-8ed7f61a9a3e",
+    "customer": "Larissa Martins",
+    "address": "Rua Primavera, 321",
+    "payment_method": "Debit",
+    "products": [
+      {
+        "name": "Cadeira Gamer",
+        "quantity": 1,
+        "price": 1599.90
+      },
+      {
+        "name": "Mousepad",
+        "quantity": 2,
+        "price": 49.90
+      }
+    ]
+  },
+  {
+    "order_id": "cdcc8901-3c47-4e0c-9b1f-f68ec6e89d53",
+    "customer": "Carlos Eduardo",
+    "address": "Av. dos Andradas, 777",
+    "payment_method": "Pix",
+    "products": [
+      {
+        "name": "Teclado Mecânico",
+        "quantity": 1,
+        "price": 429.00
+      },
+      {
+        "name": "Webcam",
+        "quantity": 1,
+        "price": 349.90
+      }
+    ]
+  },
+  {
+    "order_id": "3ad2e2c2-4d64-4d85-9c11-3ed3e9e9a44c",
+    "customer": "Beatriz Souza",
+    "address": "Travessa Luzia, 88",
+    "payment_method": "Credit Card",
+    "products": [
+      {
+        "name": "Tablet",
+        "quantity": 1,
+        "price": 1899.99
+      },
+      {
+        "name": "Capa Protetora",
+        "quantity": 1,
+        "price": 129.90
+      }
+    ]
+  }
+]

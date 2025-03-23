@@ -1,0 +1,207 @@
+order_id,customer,address,payment_method,total,status
+dce91f9e-bde2-4e49-b38f-027e1886490a,João Silva,"Rua das Flores, 123",Credit Card,3659.79,processed
+a2b8e3cf-ec79-426e-a71e-b2ffb7dfdd68,Maria Oliveira,"Av. Central, 456",Pix,2699.80,processed
+75075ac8-0987-4b9e-bd1e-12a4e70f5884,Pedro Santos,"Rua Nova, 789",Boleto,1398.90,processed
+59b1e91d-3f80-45cc-87b5-8ed7f61a9a3e,Larissa Martins,"Rua Primavera, 321",Debit,1699.70,processed
+cdcc8901-3c47-4e0c-9b1f-f68ec6e89d53,Carlos Eduardo,"Av. dos Andradas, 777",Pix,778.90,processed
+3ad2e2c2-4d64-4d85-9c11-3ed3e9e9a44c,Beatriz Souza,"Travessa Luzia, 88",Credit Card,2029.89,processed
+d4ad56ca-f1fc-4951-82bf-d72059c62fb0,Jonathan Massey,"4047 Buck Squares Apt. 703, Gomezview, MN 26598",Boleto,2161.51,processed
+2e4b854c-463e-4750-945a-dd0cf7db2697,Jack Stevens,"05038 Arnold Throughway Suite 239, New Joseph, WA 28834",Debit,2047.25,processed
+843bcda8-604e-4d19-a49d-0fb666ee640f,Jacqueline Bates,"7323 Castillo Haven, Clarkmouth, IA 29285",Debit,1390.54,processed
+8df5cd6f-5a45-40d8-8641-b4edf14b033b,William Davis,"75594 Glover Fords Suite 194, West Lindsayton, HI 85933",Credit Card,2798.03,processed
+b8a84ec7-2c7f-4fb7-8a74-0f3b133252cb,Amber Hunt DVM,"228 Lance Pass Suite 650, New Danny, MI 10589",Debit,163.84,processed
+610f32dd-d93f-4de3-b968-31446a2590be,Kimberly Miller,"28627 Dalton Parkways Suite 121, West Glenda, IA 30429",Boleto,1701.04,processed
+a289da28-86ca-4610-875c-5730c879a983,Grant Davis,"05608 Bender Fords, West Debraview, WI 11335",Boleto,983.44,processed
+062aaf6e-cdbb-4ddf-82ca-34c96e070ebf,Carla Ewing,"10500 Andre Rue Suite 610, New Rogershire, NV 14593",Pix,1043.92,processed
+ec1ec123-0948-437b-9b4d-1b7241ab3d7a,Donna Norris,"Unit 8079 Box 7538, DPO AA 70832",Pix,2267.30,processed
+24538393-1467-4af3-9c65-50ead0981cba,Darren Wells,"64010 Ronald Wells Apt. 608, Harrishaven, AZ 41141",Credit Card,161.52,processed
+64e669fd-2964-4bde-8a05-c1746697364f,Jennifer Flores,"974 Michael Village Apt. 950, Andersontown, PW 53889",Credit Card,1352.85,processed
+9abd04fc-c97f-405c-ba5e-02870bd37e54,Dakota Singleton,"981 Henson Ramp, Lynchmouth, NJ 92843",Boleto,1472.35,processed
+1c581f4a-64c5-40ab-99ad-376a9d38ace6,Kevin Jones,"7948 Maria Burg, Port Cheyennestad, WV 08283",Pix,90.51,processed
+50c4e09f-870c-4de8-9688-4fc42d2df90d,Rachel Wood,"89909 Jeremy Overpass Apt. 087, Williamsborough, RI 55819",Pix,747.53,processed
+55c77137-c7a5-498e-a1de-3a35535b52cc,Allen Keller,"11084 Wright Lodge Apt. 970, New Denisestad, FM 09581",Debit,49.36,processed
+4304ba37-9207-4490-acc2-dd416a725180,Daniel Deleon,"248 Laura Court Apt. 353, New David, CA 58894",Credit Card,132.85,processed
+f7f06a47-0821-4004-be6f-db860f5ee924,Stephanie Harding,"24391 Julia Points, South Jenniferberg, MO 17752",Debit,107.67,processed
+05b6b759-90dd-490c-a13d-71e59e647d28,Bryan Walls,"77973 Bianca Avenue Suite 646, Vegamouth, WY 80642",Boleto,508.66,processed
+1c5a9fef-8005-400c-a199-6a7675b1b7be,Russell Becker,"279 Rebecca Square Apt. 221, Yolandafort, MN 65814",Pix,1685.29,processed
+ce1b6ba4-74f3-4d47-8e65-8f3485851f95,Yvonne Brown,"93542 Jorge Throughway Apt. 611, Lake Donna, GA 16886",Boleto,325.35,processed
+0225e72c-4645-4211-b13d-14104b0baa40,Katherine Young,"24515 Zimmerman Highway Apt. 969, North Shawn, AL 17799",Boleto,348.41,processed
+1029b2c2-fc98-4dd9-b1e4-2da711e2ed98,Brenda James,"058 Garrison Mills, New Michael, CT 77540",Debit,156.84,processed
+13688432-db30-427e-a878-cf77e2c3c95b,Clarence Jackson,"2092 King Valleys Suite 122, Travisshire, KS 05267",Debit,1320.29,processed
+ccc2474d-b045-4ac3-b723-25be14b5cf5b,Mrs. Andrea Carpenter,"69586 Ford Glens Suite 799, Whiteheadview, SC 72444",Credit Card,338.96,processed
+c9c9dc22-c427-4cfd-87e0-876a12c9198c,Carol Taylor,"0451 Obrien Corners Apt. 255, South Sarahport, MH 06336",Debit,146.10,processed
+9ad85721-39cd-49e1-9b87-47d94372cff3,Troy Williams,"USCGC Kaufman, FPO AE 08320",Credit Card,1440.28,processed
+845992cb-e64b-4f07-b51f-e795e7947d27,Justin Gonzalez,"0459 Andrew Green Apt. 159, Medinaside, MA 75469",Debit,933.21,processed
+752fd3b0-1247-406b-89b1-6c9d954b647d,Sandra Cline,"8460 Lee Harbor Apt. 232, Mcphersonview, AL 47884",Pix,1198.30,processed
+d4a180b8-35c4-4bbf-9c0d-80aaead96db3,Henry Wong,"797 Adams Keys Suite 824, Port Victoriaburgh, PW 64451",Boleto,1594.05,processed
+6cc2aab6-85cb-4d63-9939-da01c0f9609a,Stephen Rowe,"20818 Meza Vista Suite 247, North Mauriceshire, SD 78965",Debit,748.08,processed
+12e913a1-5d6d-4e21-bab4-a1e10fde1504,Todd Valenzuela,"917 Rowe Center Suite 543, South Aliceside, MH 60234",Credit Card,2488.95,processed
+92e456de-063f-4324-80ac-2bbe3758d9d2,Brett Mcbride,"902 Larry Lights Suite 264, New Gregory, MI 72307",Boleto,642.20,processed
+a2ff58ee-b359-433a-a393-94c5f72b178b,Russell Garcia,"Unit 3069 Box 1993, DPO AA 62551",Pix,1631.66,processed
+cdb830bd-6060-4652-9870-3198220d76ec,Jamie Gonzalez,"15687 Valerie Turnpike, East Sean, PR 49075",Debit,2165.19,processed
+67982610-24af-4147-b11c-06984de2fa0d,Eugene Meyer,"5003 Isaac Village Apt. 016, Lake Patriciachester, OR 43324",Debit,417.44,processed
+42db2d69-65d8-40ff-8f17-836d4b0b1744,Anita Brewer,"45978 Williams Falls Suite 397, Lloydberg, NM 76588",Credit Card,886.82,processed
+91545aa7-c34d-421e-b928-21d37526da97,Lisa Bowen,"4316 Sue Track, Christopherfort, WA 98911",Boleto,1631.65,processed
+64766885-6911-4daa-8c73-2eb48bab705f,Erica Mcgrath,"8273 Brandon Street, Andersonchester, NC 32087",Debit,1766.13,processed
+08e0f4b9-764e-46b4-80be-e45f4d15d58c,Rachel Cobb,"58532 Adams Cliffs, Cannonmouth, FL 99621",Credit Card,2028.94,processed
+c5cc8857-25cf-42d0-9cb5-d3aac1029e6a,Rodney Greene MD,"7120 Preston Rapids, Lake Susanberg, OK 36899",Boleto,3567.49,processed
+1dc075f8-d189-4bc0-84e6-ca03234c8c08,Daniel Underwood,"5007 Joseph Knoll, Freemanburgh, RI 83808",Credit Card,2608.47,processed
+14d2a940-121e-4612-8d22-4d02f12a7481,Dustin Duke,"283 Christopher Lane Suite 701, Rhodestown, UT 57228",Debit,2919.50,processed
+f3007114-78c3-44ab-a98d-46042964edb5,Andrew Castro,"2793 Cynthia Centers Apt. 367, Smithburgh, IA 50472",Pix,138.90,processed
+41fcb3db-e5ac-4d0b-a8b8-6f185aa445b5,Julie Martin,"642 Alexander Junctions, Jenniferfurt, NM 12888",Boleto,84.70,processed
+9d5571f8-140f-4686-9350-759f4cc558fa,Daniel Mcdonald,"6706 Kaitlyn Path, New Cynthia, CA 66433",Debit,1422.56,processed
+b57a9459-5490-4546-80cb-b1f66a704ad9,Laura Hill,"33645 Martha Glen Suite 435, Christopherview, SD 84052",Pix,1236.95,processed
+7caaf585-fb24-4d68-9f00-e9fdaeaa1bb2,William Lewis,"856 Zuniga Forks Apt. 898, Hudsonchester, CT 80076",Boleto,3560.90,processed
+6c760d6e-fcee-4a80-a028-81c3ee9cfec8,Kayla Franklin DDS,"82374 Stevenson Stravenue, New Alyssaton, FL 70815",Debit,654.75,processed
+2393abf5-941c-4ad8-9e06-38a1361a51e4,Tamara Mcclure,"073 Gonzalez Court Suite 757, Angelashire, PA 24304",Pix,784.70,processed
+47d2e1a5-4fd0-470f-8773-0063006631f5,Michelle Rodriguez,"569 Erin Mount Suite 863, South Johnny, WV 42083",Debit,2058.56,processed
+37c399ce-fd1d-4b01-8788-42eb1837e81a,Kimberly Brown,"8353 Washington Skyway, Riveraside, MP 15903",Debit,876.14,processed
+2f21393e-2836-4369-9e96-8a6c9f3b15f7,Suzanne Harris,"51497 Aaron Crossing, Davidburgh, FL 07224",Debit,2417.72,processed
+31d4d3b8-2147-4571-ab61-ade2ea2e71ba,Edward Smith,"2613 Stephanie Causeway, Port Danieltown, AS 34434",Pix,230.90,processed
+15d042b0-8a5c-49d4-98f5-fe598c51653b,Erin Washington,"795 Jackson Stravenue, Claudiamouth, MA 59539",Debit,363.56,processed
+39e0e27c-300f-4514-8b23-dbf249756644,Rachel Johnson,"694 Rachel Lakes, Shelbyshire, DE 09358",Boleto,733.45,processed
+42df5cdc-c76d-4035-a88e-6adb90b9fbcd,Adam Estrada,"96915 Carol Lights Suite 775, Port Tina, MT 89162",Debit,280.28,processed
+df6ef259-753b-4849-a07a-03f297bd04b6,Christopher Smith,"0802 Karen Spring Apt. 299, Stephenberg, TX 94721",Debit,349.08,processed
+39487f92-75e1-4b89-b79b-e11489b33d0c,Susan Smith,"4721 Edward Bypass Apt. 411, Parksport, AS 80975",Credit Card,1443.75,processed
+aa3a68c2-1561-403b-8279-5741da3acdd7,Kathleen Snyder,"678 Jones Lock, Allisonmouth, UT 95461",Pix,1611.51,processed
+bab0ac81-1442-4180-8b48-e6218425d3bf,Brandon Nguyen,"562 Ellis Row, Port Joseph, RI 54684",Credit Card,1135.27,processed
+9bfc7949-ba0f-4799-968e-82c5aa221952,Eric Smith,"648 Conrad Crossing, Myershaven, MH 80302",Credit Card,809.78,processed
+45d07812-a6cd-4aca-8779-67176a647e55,Tiffany Wu,"5195 Justin Ford Apt. 047, West Raymond, AR 30932",Debit,2164.84,processed
+3830717e-7a34-4c1b-82bb-2387e8b86eb9,Adrian Mitchell,"248 Sims Manors Suite 962, Lake Kathyhaven, WV 41185",Debit,188.66,processed
+62eb0eae-495c-438b-bad5-29a04aaa5650,Jared Blackwell,"909 Bailey Groves Suite 579, Sarabury, MI 74718",Boleto,1058.74,processed
+105c34ed-f794-4a9b-ab61-789363006eba,Brian Hernandez,"3474 Abigail Falls Apt. 221, Lake Bill, IN 04684",Debit,1148.08,processed
+78a3dbc1-b7dc-48fe-b5bf-b70b08c0218c,Rebecca Rodriguez,"338 Pamela Tunnel Suite 801, North Ryan, NE 43488",Credit Card,91.48,processed
+69a5a301-a8a2-4cb8-8b9d-37158ab645c1,Stephanie Anderson,"2788 Hayden Pine Suite 517, Mejiachester, FM 97280",Pix,1767.24,processed
+cd7018ab-4bd8-4bbe-9361-1b36601b006b,Nicole Martin,"8883 Mariah Place Suite 423, West Kevin, WI 79639",Debit,761.84,processed
+0cd00243-17fc-4740-bebb-11855046d529,Rachel Peck,"814 Ross Tunnel, West Anthony, WA 52839",Boleto,65.37,processed
+7485af10-3a38-4482-a87f-f786877c81a0,Sheryl Reilly,"40033 Keith Rapid Apt. 981, North Justin, GA 37628",Credit Card,2283.60,processed
+d2cb4236-2555-4074-a02d-45d0eb84c0f6,Nancy Simmons,"37013 Hines Springs Apt. 019, Jamesland, VA 84787",Credit Card,2687.13,processed
+7a8921b5-fe94-4bb3-a7e5-232382baab75,Gwendolyn Salinas,"USNV Parsons, FPO AA 11479",Credit Card,495.33,processed
+c6ab0cd0-08af-46c7-befb-33fe9b7cf113,Alex Hill,"1790 Miller Valleys Apt. 824, North Vanessaside, PW 61745",Credit Card,2318.46,processed
+6a05506c-bd22-40f7-ba3e-55d0aa42b397,Tiffany Mayer,"4858 Danielle Port Apt. 355, Williamsonfort, GA 56139",Debit,409.10,processed
+020eea33-8682-4f01-81cf-f7861d5d9182,Jacob Sandoval,"767 Alexis Causeway Apt. 155, South Joshua, WV 54276",Boleto,866.15,processed
+dbf0971a-2beb-4b37-bfc9-4e6e3b9e3b6c,Marie Yates,"197 Nunez Crossroad, New Judyville, IL 05260",Pix,693.94,processed
+489af7c4-7107-4416-bf6a-455e67b2427a,Stephanie Oneal,"6657 Andrea Fall, North Elizabethchester, NC 32100",Pix,1999.30,processed
+1d06669a-0887-425f-823b-0a15fa07306f,Tiffany Garcia,"8318 Perry Harbors, Markmouth, AZ 61163",Debit,1606.38,processed
+e4c20184-b634-48db-b55a-3698668f5c9b,Donald Pace,"288 Mata Fields Apt. 892, Marisaview, PA 62641",Pix,891.40,processed
+1dd204b5-d32e-4ae1-ae95-cabba2b437ec,Kayla Griffin,"79829 White Run, Lesterburgh, ME 25329",Boleto,2079.23,processed
+66c538bd-e652-4852-8d19-f7159ca1056b,Matthew Wallace,"027 Hunt Valley Suite 029, Paynefort, SC 60640",Boleto,765.03,processed
+8ab2bc1c-5eab-42a9-86bd-87e455a3d41a,Kenneth Harris,"142 Joseph Viaduct, New Edwardstad, GU 26915",Pix,807.25,processed
+07a071d3-93ef-48ff-95c3-b601442ffc86,Keith Reese,"4289 Owens Fords Suite 962, West Mariafort, MN 46058",Boleto,193.10,processed
+dfeb38a1-8445-41b4-b5ee-332009abc1ed,Kathryn Hodge MD,"USS Woods, FPO AA 67388",Boleto,2350.75,processed
+ead1f27c-39d6-4526-a7e4-13e2ab044700,Kimberly Romero,"PSC 4819, Box 7339, APO AA 57751",Boleto,1079.37,processed
+42c59cd8-357e-478e-9d84-724c8939e8f3,Kylie Vargas,"194 Matthew Vista Suite 239, Cobbview, VT 90162",Pix,508.20,processed
+df9db78f-99a8-457a-937b-550eb7cd3c91,Justin Lopez,"557 Freeman Oval Suite 957, North Jeremy, MT 69525",Boleto,3213.25,processed
+46c76f10-7858-4061-a718-939933d8319f,Marcus Anderson,"531 Hays Island, Lake Rachel, TX 59578",Pix,172.68,processed
+45ce4fd9-e206-49e0-956d-83acc7149219,James Long,"306 Gonzales Tunnel, Perezfort, LA 58791",Boleto,3105.74,processed
+561593a9-ddb1-4ab8-a7b3-cb4ff43e39aa,Cynthia White,"999 Steven Mall, Amandamouth, RI 96592",Debit,948.10,processed
+8bc63466-24b8-4db9-aad6-91ab8b46f54a,Nathan Johnson,"168 Torres Harbors, Burnsport, VT 11534",Boleto,1491.13,processed
+70fdcfe1-1954-4a23-b6c6-ab7ea3fd33ea,Daniel Trujillo,"49339 Vincent Fields Suite 545, Lake Corey, DE 91906",Pix,137.20,processed
+d74a03ea-516a-44bb-91a5-50d8f0d40b47,Charles Duncan,"17205 Rodriguez Cape, Lake Sue, PA 86481",Pix,965.43,processed
+71b815d5-2af3-4c0d-8e89-00d7d60d2e99,Ashley Schwartz,"03586 Newman Branch, West Christopher, NY 45955",Pix,371.37,processed
+7edf0321-ea24-4b49-8500-4952d3f42273,Scott Maxwell,"67703 Steven Inlet Suite 373, East Michael, AK 51136",Debit,215.60,processed
+6179bbd2-3f4e-4a35-ac8a-1c690d54a6ef,David Bowers,"86556 Elliott Stream Suite 889, Christineview, AZ 13716",Boleto,166.16,processed
+a6ae85c2-ca05-43ec-af37-da72d35c0d36,Richard Bell,"02033 Richard Mount Apt. 096, New Jamesmouth, NM 08585",Pix,742.20,processed
+e79445ba-131c-45f1-b4fc-ba95ea445b2f,James Parker,"USS Bowen, FPO AP 18600",Debit,640.74,processed
+43923286-4dbc-4068-979d-ba3008b606a5,Stacey Taylor,"747 Poole Squares Suite 444, Patricialand, MS 19648",Pix,1298.92,processed
+cf536782-5e7f-45c1-93ab-ba09817e58b1,Michelle Franklin,"5244 Castaneda Shore, Lake Aaron, PA 20049",Pix,1634.40,processed
+ec98f24b-9dac-4b67-855e-e57581f0920d,Kevin Dougherty DDS,"38234 Hammond Curve Apt. 360, Lake Todd, KY 90307",Pix,523.10,processed
+9ffea918-a1f1-4acf-96ec-4973a2635229,Joseph Mack DDS,"985 Brown Hill, Port Rebecca, TX 93095",Boleto,2103.48,processed
+a936f01d-4fe6-4eae-88dc-a39e1f29eb4b,Shannon Peters,"8652 Guzman Stream Apt. 455, Benjaminhaven, MI 19799",Pix,44.24,processed
+c2517c2e-044e-43ce-b13b-2b98141e35c3,Kristine Rose,"714 Faulkner Spring Suite 523, South Nathan, KY 51788",Pix,745.24,processed
+05e7202b-5bf9-4af1-aa3c-3c9fa14bd0a9,Brian Ruiz,"6118 Sarah Ridge Suite 774, Port Benjamin, MI 18635",Pix,1756.08,processed
+252279f9-b35c-45fd-9260-ba1224d50c04,Dawn Peters,"51621 Reed Square, Scotttown, PW 47897",Pix,242.75,processed
+bd474a40-d466-4674-aa76-269fadcf61a1,Daniel Huang,"923 Kelly Coves Apt. 178, Rhodesport, NE 65412",Boleto,836.24,processed
+374049d2-b693-48f5-b9c3-b9a20631d98d,Amanda Phillips,"58140 Kyle Route, Jorgeton, NE 02627",Pix,354.20,processed
+e402f399-87a7-4a4d-96e8-bf776e55ea38,Deanna Mcintyre,"984 Kenneth Locks Suite 488, Gordonstad, IN 80830",Credit Card,1607.62,processed
+6a74fadf-e2c3-4bba-b994-f3cc73dccd9c,Barbara Anderson,"138 Thomas Trace, Robertland, AK 23636",Credit Card,431.45,processed
+2f523940-a107-48b8-803d-ab01b4dc8939,Claudia Smith,"6983 Tammie Junction, Dixonshire, WA 49184",Credit Card,179.84,processed
+50959aa5-3a25-49fa-9c07-2d5f6ad8ca85,William Mccormick,"1643 Ann Camp, East Michelle, WV 43323",Debit,1389.60,processed
+efbf55a0-82c0-4a57-92ce-fd2bfd433f4d,Jessica Perez,"697 Ethan Causeway, Nguyenview, RI 45911",Credit Card,1974.11,processed
+2ae79345-9a91-43c4-b70c-0e2fc0484a23,Jill Faulkner,"USNV Bennett, FPO AE 79006",Pix,1384.42,processed
+3fe99250-de0b-4fb4-90d1-b699d1308f0d,Eric Jordan,"436 Smith Turnpike, Craighaven, TN 43405",Boleto,78.16,processed
+9467e968-def7-4d23-8308-ce02404cec40,Sara Grant,"5409 Carlson Vista Apt. 132, South Williamchester, LA 08939",Pix,911.33,processed
+c8ad507a-632b-4904-b340-739381d297a6,Lindsey Miles,"PSC 7091, Box 8708, APO AA 57808",Pix,31.24,processed
+69eeb3c2-2008-4e43-b5bf-bd1ac2d5bf31,Andrew Alvarado,"311 Stark Expressway Apt. 318, Crystalberg, IL 44141",Pix,622.93,processed
+4f69e02b-bfc6-4456-a98c-0c28e6e3cf6a,Donna Taylor,"62753 Hawkins Pines, Dominguezville, TN 84572",Credit Card,1319.71,processed
+80879f50-0f07-4fcb-9d02-0410a7f61fb5,Timothy Meyer,"62852 Rachel Union, Ericton, OK 55418",Boleto,1591.80,processed
+da61c6c4-621d-49e9-9a41-6d22f4af0210,Taylor Raymond,"450 Devin Drive, West Ericshire, PW 07772",Debit,1648.49,processed
+4c853ca4-63f9-4d04-8b04-3f5a528a14d2,Brandon Hughes,"68869 Karl Brook, Lake Kevin, WA 18301",Credit Card,666.80,processed
+a5e6342b-2cdb-41b3-a3e1-09a7be9a1876,Elaine Stevens,"693 Gerald River Apt. 551, South Robert, WI 72855",Boleto,308.76,processed
+a6eec79f-842d-42ac-8694-910054cad254,Charles Reid,"5594 Peter Fork, North Christianport, FL 79109",Boleto,735.51,processed
+215a65d1-6c09-4991-a088-078982815a56,David Meyer,"8064 White Course Suite 216, Holdenfort, OK 92299",Pix,359.70,processed
+7cf188d4-8472-4cfc-a082-943b80ebd87a,Cameron Hart,"650 Daniel Overpass, Hochester, GU 19638",Pix,1965.97,processed
+6efedf11-a22e-41a3-9731-8c2423b6429e,Timothy Collins,"6631 Rodriguez Roads Apt. 994, Seanmouth, MN 72993",Debit,40.24,processed
+01e8c109-6863-4ba6-a227-8faa33341516,Lisa Reed,"8981 Hooper Pike Suite 583, North Kristina, PW 15037",Boleto,127.77,processed
+8dc11b3a-93b2-4b79-a960-ae5044e557c4,Zachary Rasmussen,"42957 Cervantes Field Suite 017, Josephview, WY 16986",Pix,888.48,processed
+59ab4b3e-716a-4699-a455-da17d8af9ccd,Craig Smith,"20442 Oneill Brook, New Andreastad, CA 60939",Boleto,734.34,processed
+4fc71a07-926b-4418-a4a0-4fed706e9331,Ashley Archer,"PSC 3043, Box 8375, APO AA 17506",Boleto,136.13,processed
+65f9e184-fda9-4ad3-9434-c12c77822917,Justin Cameron,"0223 John Glens Suite 342, Greenton, LA 14368",Pix,1153.80,processed
+b50b5225-286e-4006-81da-46890ea5455e,Jacqueline Carter,"78033 Reilly Springs Apt. 841, Jimenezside, CT 40192",Pix,669.03,processed
+d28535db-4ff3-4bd6-9eff-d1a183bc4de2,Krystal Washington,"6940 Sara Square, Christineport, NV 87124",Boleto,325.28,processed
+0f2a9ec4-d401-4b0f-ba6e-f63db30f316f,Linda Romero,"904 Willie Track Apt. 217, Cherylhaven, NE 33902",Pix,1332.20,processed
+bae38534-67e9-4e71-972e-28143551cf74,Robert Stephens,"006 Jones Brooks Apt. 410, Garrettberg, MD 88932",Credit Card,1611.18,processed
+a724cdce-4d1a-4a07-99e0-e8636775f191,Colleen Valdez,"615 Elliott Rapids, West Jamesberg, SC 15025",Pix,2070.00,processed
+6a1c55ce-6abe-48d8-a642-ea88503e146d,Anthony Lucas,"379 Johnathan Extension Suite 335, Brownfurt, WI 29621",Credit Card,1159.06,processed
+bd8be3ba-4745-46b6-b9b4-fd1db92fabd9,Linda Hayes,"82719 Cisneros Ports, West Nicole, KY 08845",Boleto,1016.86,processed
+dea8ec4a-8961-44b9-b80e-52058e8b8201,Melissa Gibson,"PSC 5210, Box 7125, APO AE 97291",Boleto,2201.40,processed
+d27bd321-9e2d-43e5-ac13-4aa3fa0f69b9,Alexander Williamson,"89728 John Glens, Parsonsbury, AS 40767",Pix,199.90,processed
+18746083-a181-4926-adb7-e3d709f2a85d,Shelly Mason,"224 Tara Village, Jameston, NV 35470",Pix,546.84,processed
+c51c4852-2e76-4b73-950e-7c49b31a5fba,David Richardson,"91764 Reyes Knolls, South Michael, NV 75022",Boleto,1002.94,processed
+a2f0d90f-42d9-46de-ad70-844ed9dce538,Laura Ramos,"PSC 3463, Box 6070, APO AA 33183",Boleto,1080.30,processed
+45371ec0-ff69-4432-9a97-343d8296af58,Kara Fox,"596 Santos Corner Apt. 404, North Jacquelineshire, MD 03382",Debit,215.88,processed
+2da27ae9-98d6-4fff-8680-5dde54b76bae,Jason Ortiz,"6486 May Village Suite 683, Hillmouth, IL 75619",Boleto,752.62,processed
+f84f74e6-553b-4d19-8bc8-b637572762db,Phillip Porter,"8549 Watts Well Suite 392, Kirkside, FM 16610",Debit,576.58,processed
+035158b3-67d6-4f2a-ae63-357a901bd84b,Marie Brennan,"8904 Kenneth Knolls Apt. 367, East John, AL 25414",Pix,744.37,processed
+7e1dd37c-688a-4c0a-baa0-13a940422618,Courtney Suarez,"52562 Nicholson Mall, Lake Amandaton, MA 82008",Pix,839.15,processed
+c06677cc-4c10-432a-8943-4c3fab4f8795,Matthew Melendez,"853 Michael Drive, Deniseburgh, OK 67415",Pix,498.33,processed
+bdb3ebe7-6921-40bc-a3ca-19bccb5760f3,James Mcbride,"2537 Thompson Dale, Holmesstad, ID 90672",Credit Card,2427.15,processed
+7f7948ab-075c-49be-bf97-93f490c30232,Robert Warren,"875 Hale Drive, Smithtown, KY 87890",Pix,882.18,processed
+10480e4f-c9a1-41fe-a15f-3d92ac1fe7be,Brooke Rodriguez,"8891 Amy Ramp Apt. 991, Ryanfort, AK 56356",Pix,1735.72,processed
+099a2229-a978-4c0e-beae-3a06629eaabf,Lynn Scott,"166 Andrew Knolls Apt. 442, Christopherhaven, MI 92399",Debit,862.92,processed
+7d3e4dcb-458a-487c-9c72-0b479f710f2c,Katie Fry,"029 Lee Plain Apt. 133, North Patricia, AR 63758",Credit Card,83.16,processed
+1efeee18-3146-4d6a-a1b6-b5c7736bc7ef,Louis Silva,"29928 Mary Gardens, Robinhaven, IA 67663",Pix,2011.62,processed
+684ce108-2dae-48f3-8b9b-fdbddb3f34b1,Teresa Johnson,"736 Grant Extensions Suite 491, Scottshire, LA 01895",Pix,611.00,processed
+3f4809b0-71af-41d8-abd5-b052d4de670d,Danielle Chavez,"00353 Mahoney Port Suite 483, Port Wendy, ID 73018",Credit Card,2653.92,processed
+6f52a214-292f-476b-a712-0d0b791252d8,Tyler Maynard,"37356 Todd Station, South Monicamouth, NH 00514",Debit,1643.12,processed
+8fbfe04e-9090-48d9-9ca4-d143028d35c4,Jeff Turner,"1298 White Streets, Timothymouth, CO 90216",Pix,204.96,processed
+efa883dc-6735-4516-865c-7debaad0d1f9,Kelly Jones,"4015 Stephanie Bypass Suite 489, Johnfort, NC 98068",Pix,62.54,processed
+219800fc-6820-465e-8ef0-cffa7ecde340,Kelsey Miller,"5327 Joseph Square Apt. 504, Morgantown, GA 59153",Boleto,1216.88,processed
+86559b51-eca6-4cda-9a39-3554716b3b9c,Tracy Hall,"8237 Scott Centers Suite 579, Lake Amber, NE 64888",Debit,1746.58,processed
+51afeeeb-1114-4a08-a5bb-5f485ac9ddae,William Oconnell,"784 Shirley Islands Apt. 019, North Kathleen, MD 84811",Pix,2426.78,processed
+340aade8-ca9b-44ac-a6b5-e78859b10ee2,Daniel Thomas,"67036 Ramirez Extension Suite 742, West Glenn, NY 93744",Debit,1517.16,processed
+69205851-7bd8-42bc-bae0-350c34a16b27,Christopher Davis,"18133 Nancy Hill Apt. 943, Hahnberg, MO 07732",Boleto,324.76,processed
+efc33269-a3ba-42b3-a741-12d689ba4b76,Amanda Warner,"86386 Jackson View Suite 119, West Benjaminborough, WA 71632",Boleto,1393.98,processed
+4a3ab4b4-feeb-436b-bbda-ad1ecd3c4d10,Nancy Hartman,"588 Bradley Road, Williamsfurt, FL 96682",Credit Card,513.76,processed
+b0e01835-7d57-4066-9062-99f82175f1df,Stephanie Young,"05176 Randy Streets, Jesseberg, ND 27410",Credit Card,779.76,processed
+073eba18-2bfd-45a5-bd5c-f181bd3938bf,Mary Jacobs,"006 Hoover Valleys, Debrafurt, TN 75523",Pix,188.50,processed
+680a4880-b5c4-421c-9ab3-b936c6f0382e,Donald May,"4737 Frank Mountains, Kennethside, VT 41506",Boleto,446.50,processed
+6bff2550-2ca4-4d39-8dbe-b2b0b18c9333,Barbara Spencer,"2210 Phyllis Overpass, Parsonsshire, GU 10132",Pix,55.14,processed
+06ec4d7e-6ccf-4e9c-9da3-cbff5d919fba,Amy Henry,"234 Morris Rest Apt. 067, Andersonville, MS 14410",Credit Card,241.60,processed
+9c817626-1bf1-48da-af96-4464d3d6e593,Benjamin Villegas,"065 Andrea Burgs Apt. 583, Harryport, AL 31922",Pix,919.77,processed
+0cbd29c3-2ba9-4dbe-8e31-ddbd6dbcb03a,Darren Cook,"PSC 0553, Box 6909, APO AA 42196",Debit,1754.16,processed
+acf88079-72e8-4e20-97d7-1b265676e131,Michael Molina,"27673 Carolyn Burgs Suite 451, Jessicafort, MT 61372",Debit,715.40,processed
+ea677e6a-ff7d-4acb-8abb-cb50e1fb8018,Benjamin Turner,"500 Angela Estates Apt. 347, Port Brett, AS 33176",Boleto,3233.61,processed
+1cc77272-f9ee-4caa-9565-11cc14093ac2,Sarah Richardson,"1248 Hartman Squares Apt. 791, Kevinmouth, IL 98576",Debit,1277.56,processed
+73393176-4262-4fdb-a586-df99bd1a3f71,Joseph Gentry,"PSC 0133, Box 7360, APO AA 18736",Pix,199.90,processed
+d3a86ae0-7389-4284-b64e-a2f7e8a8c3a1,Ryan Bates,"4949 Evans Haven, Sherryberg, WI 75105",Credit Card,1797.23,processed
+7242bd4a-1131-4695-995f-312d31636999,Michael Smith,"98747 Hayden Mews Apt. 156, Port Scotthaven, VA 11104",Pix,823.60,processed
+ccf00d26-fbe0-426c-88c4-0bdf0f46da24,Karen Schwartz,"66735 Moore Cove Suite 096, Kimberlymouth, TN 95799",Credit Card,700.12,processed
+687c464c-99fb-4bef-b93f-dd8b8fed1cb6,Jared Miller,"360 Stacey Stream, Samanthabury, NY 80011",Boleto,1779.74,processed
+3c7b983c-dc2b-4016-ab13-9519fddb1d70,Mark Miller,"USCGC Stephens, FPO AE 20664",Debit,1110.60,processed
+0635c91a-2e65-45af-9cb0-62b32dab6ac5,Emma Oliver,"07117 Whitney Lake, South Melissa, PW 85383",Pix,78.87,processed
+03d1ee8d-8140-4a0a-b22f-436c1e5931b8,Jesse Sanchez,"Unit 5120 Box 0907, DPO AE 92202",Pix,1095.37,processed
+e6b78b62-822a-422b-84c0-12a62acebd33,Nancy Briggs,"76452 Greene Stream, Palmertown, NY 22287",Pix,379.60,processed
+4eead950-b703-4261-bca0-2d595e6b88c5,Jamie Wilson,"1533 Zimmerman Station Suite 530, Wrightport, NC 02196",Boleto,1773.01,processed
+2e210f18-e492-41e5-8ff5-2c2bbe12b3da,Kelly Harris,"0431 Ryan Grove Suite 075, South Rebeccatown, WY 88292",Boleto,524.06,processed
+7bcf8029-14ef-494f-a6dc-886c4715292b,Jose Baker,"866 Jay Spur, Port Davidchester, IA 97700",Debit,1791.10,processed
+59be1d0c-aef0-4040-9bd1-51c0609974dc,April Campbell,"5746 Bailey Springs Suite 500, Cassandraberg, IN 87039",Pix,1747.69,processed
+f11c010e-d8a7-49b6-b0ce-39645e9cd46c,Amy Castillo,"04498 Alvin Haven, Port Juanview, GU 88108",Credit Card,570.73,processed
+7d3523d6-4c08-4aac-858b-96ef14ae8e1d,Jessica Gould,"96004 Kurt Field Suite 155, Edgarside, HI 85373",Credit Card,3189.32,processed
+80176a4d-a832-436a-8c84-543309bef606,Zachary Walsh Jr.,"1527 Gabrielle Throughway, East Anthony, OK 11428",Credit Card,457.50,processed
+47359668-6d3c-4c47-9bee-96ee1228d316,Christopher Wilson,"7715 Johnston Hills Apt. 608, East Dustinmouth, MH 58809",Credit Card,231.39,processed
+c4cf2270-8527-4008-b6b0-159b262a9835,Mercedes Hill,"466 Mayo Road Apt. 776, Brandimouth, FL 39337",Boleto,1180.43,processed
+8cf2f9f4-6120-4763-a124-29f2aee1b670,Tammy Fletcher,"088 Randall Place Apt. 993, Johnsonborough, KY 20852",Boleto,558.51,processed
+2679bc14-fa53-4bb5-a4c7-16fd4fbaad8d,Victor Lambert,"Unit 4792 Box 4823, DPO AE 13689",Boleto,1285.15,processed
+b4ba1ed5-cf77-49ad-a801-6d85b4be0ae4,Gabriel Long,"824 Campbell Harbor, New Barbaraton, CT 40274",Debit,306.30,processed
+58d2241c-0b0f-401e-825b-9f7339120c0d,Justin Shelton,"0782 Stephen Junction Apt. 618, Jillborough, MI 03445",Credit Card,207.74,processed

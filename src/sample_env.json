@@ -1,0 +1,7 @@
+{
+    "INPUT_MODE": "<STRING | required | 'faker' or 'json'>",
+    "FAKER_QUANTITY": "<INTEGER | required if INPUT_MODE='faker' | e.g. 10>",
+    "JSON_INPUT_PATH": "<STRING | required if INPUT_MODE='json' | e.g. 'src/incoming_orders/'>",
+    "GENERATE_REPORT": "<BOOLEAN | optional | true or false>",
+    "REPORT_OUTPUT_PATH": "<STRING | optional | e.g. 'data/report.csv'>"
+  }
